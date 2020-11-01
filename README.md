@@ -6,3 +6,8 @@ Para el desarrollo de la aplicación se usó el patrón de arquitecutura MVC (Mo
 
 A continuación adjuntamos imágenes del resultado final.
 
+!["Inicio"](/archivos-adjuntos/inicio.png)
+!["InicioCambio"](/archivos-adjuntos/inicio2.png)
+!["Añadir"](/archivos-adjuntos/agregar.png)
+!["Actualizar"](/archivos-adjuntos/actualizar.png)
+!["listado series"](/archivos-adjuntos/listado.png)
